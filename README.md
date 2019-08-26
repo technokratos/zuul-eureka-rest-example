@@ -3,5 +3,5 @@ Supported single mode and multi node mode. Multi node node requires.
 
 Supported Swaggwer by the page localhost:8080/swagger-ui.html
 
-![Architecture](https://github.com/technokratos/zuul-eureka-rest-example/doc/zuul-eureka-rest.png)
+![Architecture](https://github.com/technokratos/zuul-eureka-rest-example/blob/master/doc/zuul-eureka-rest.png)
 
