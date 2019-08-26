@@ -1,0 +1,16 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: capture-game
+endpoints:
+  info:
+    enabled: true
+info:
+  app:
+    version: ^project.version^
+    name: ^project.name^
+#eureka:
+#  client:
+#    registerWithEureka: false
+#    fetchRegistry: false
