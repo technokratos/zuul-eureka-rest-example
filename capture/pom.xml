@@ -198,6 +198,8 @@
         </dependencies>
     </dependencyManagement>
     <properties>
+        <start-class>com.ognio.rest.CaptureGameRest</start-class>
+
         <spring-boot-starter-web.version>2.1.7.RELEASE</spring-boot-starter-web.version>
         <java.version>8</java.version>
         <resource.delimiter>^</resource.delimiter>
@@ -223,6 +225,12 @@
                 </excludes>
             </resource>
         </resources>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
     </build>
 
 </project>
