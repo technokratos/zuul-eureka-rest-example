@@ -200,7 +200,7 @@
     <properties>
         <start-class>com.ognio.rest.CaptureGameRest</start-class>
 
-        <spring-boot-starter-web.version>2.1.7.RELEASE</spring-boot-starter-web.version>
+        <spring-boot-starter-web.version>2.5.12</spring-boot-starter-web.version>
         <java.version>8</java.version>
         <resource.delimiter>^</resource.delimiter>
 <!--        <delimiters>-->
